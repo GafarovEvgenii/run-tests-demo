@@ -2,3 +2,4 @@
 venv
 .pytest_cashe
 __pycashe__
+venv/*
